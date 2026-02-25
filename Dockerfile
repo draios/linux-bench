@@ -1,4 +1,4 @@
-FROM golang:1.24.11 AS builder
+FROM golang:1.24.13 AS builder
 
 ENV OUTPUT_DIR=/out
 

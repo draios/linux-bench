@@ -1,6 +1,6 @@
 module github.com/aquasecurity/linux-bench
 
-go 1.25.9
+go 1.25.11
 
 require (
 	github.com/aquasecurity/bench-common v0.4.8
